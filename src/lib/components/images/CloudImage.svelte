@@ -1,5 +1,5 @@
 <script>
-	export let imagePath = '/src/lib/images/your-image.jpg';
+	export let imagePath = 'images/your-image.jpg';
 	// Generate a unique pattern id to avoid conflicts if multiple instances are rendered
 	const patternId = `imagePattern-${Math.random().toString(36).substring(2, 9)}`;
 </script>

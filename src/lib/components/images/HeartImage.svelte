@@ -1,5 +1,5 @@
 <script>
-	export let imagePath = '/src/lib/images/gf/Tudorita.jpg';
+	export let imagePath = 'images/gf/Tudorita.jpg';
 	export let strokeColor = '#dd6eb5';
 
 	// Generate a unique id for this pattern instance.
